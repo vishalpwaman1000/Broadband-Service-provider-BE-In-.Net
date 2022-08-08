@@ -1,0 +1,130 @@
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\appsettings.json
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.exe
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.deps.json
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.runtimeconfig.json
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.runtimeconfig.dev.json
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\ref\Broadbrand Service Provider.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.pdb
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Humanizer.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Common Layer.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Repository Layer.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Service Layer.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Common Layer.pdb
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Service Layer.pdb
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\bin\Debug\net5.0\Repository Layer.pdb
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.AssemblyInfo.cs
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\staticwebassets\Broadbrand Service Provider.StaticWebAssets.Manifest.cache
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\staticwebassets\Broadbrand Service Provider.StaticWebAssets.xml
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\scopedcss\bundle\Broadbrand Service Provider.styles.css
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.RazorTargetAssemblyInfo.cache
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.csproj.CopyComplete
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\ref\Broadbrand Service Provider.dll
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.pdb
+C:\Users\visha\source\repos\Broadbrand Service Provider\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.genruntimeconfig.cache
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\appsettings.json
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.exe
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.deps.json
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.runtimeconfig.json
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.runtimeconfig.dev.json
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\ref\Broadbrand Service Provider.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Broadbrand Service Provider.pdb
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Humanizer.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Common Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Repository Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Service Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Common Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Service Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Repository Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.AssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\staticwebassets\Broadbrand Service Provider.StaticWebAssets.Manifest.cache
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\staticwebassets\Broadbrand Service Provider.StaticWebAssets.xml
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\scopedcss\bundle\Broadbrand Service Provider.styles.css
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.RazorTargetAssemblyInfo.cache
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.csproj.CopyComplete
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\ref\Broadbrand Service Provider.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.pdb
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.genruntimeconfig.cache
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
