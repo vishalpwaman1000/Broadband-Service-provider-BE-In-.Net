@@ -128,3 +128,8 @@ C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbran
 C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.pdb
 C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\obj\Debug\net5.0\Broadbrand Service Provider.genruntimeconfig.cache
 C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\visha\source\repos\YouTube Project\Broadband Service Provider\Broadbrand Service Provider BE\Broadbrand Service Provider\bin\Debug\net5.0\System.IO.Pipelines.dll

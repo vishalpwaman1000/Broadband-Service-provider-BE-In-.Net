@@ -106,6 +106,9 @@ namespace Broadbrand_Service_Provider
             services.AddScoped<ICustomerSL, CustomerSL>();
             services.AddScoped<ICustomerRL, CustomerRL>();
 
+            services.AddScoped<IAdminSL, AdminSL>();
+            services.AddScoped<IAdminRL, AdminRL>();
+
             #endregion
         }
 

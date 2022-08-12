@@ -54,4 +54,19 @@ namespace Common_Layer.Model
         public string CompanyName { get; set; }
         public string Position { get; set; }
     }
+
+    public class Product
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int ProductID { get; set; }
+        public DateTime InsertionDate { get; set; }
+        public string ProductName { get; set; }
+        public string ProductDescription { get; set; }
+        public string ProductPrice { get; set; }
+        public string ProductType { get; set; }
+        public string ProductImageUrl { get; set; }
+        public string PublicID { get; set; }
+        public bool IsActive { get; set; }
+    }
 }

@@ -17,5 +17,6 @@ namespace Common_Layer
 
         public DbSet<UserDetails> UserDetails { get; set; }
         public DbSet<UserPersonalDetail> UserPersonalDetails { get; set; }
+        public DbSet<Product> Products { get; set; }
     }
 }

@@ -16,9 +16,11 @@ namespace Broadbrand_Service_Provider.Controllers
     public class AdminController : ControllerBase
     {
         private readonly ICustomerSL _customerSL;
-        public AdminController(ICustomerSL customerSL)
+        private readonly IAdminSL _adminSL;
+        public AdminController(ICustomerSL customerSL, IAdminSL adminSL)
         {
             _customerSL = customerSL;
+            _adminSL = adminSL;
         }
 
         [HttpPatch]
@@ -48,6 +50,82 @@ namespace Broadbrand_Service_Provider.Controllers
             try
             {
                 response = await _customerSL.GetCustomerAddress(UserID);
+
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = "Exception Mesage : " + ex.Message;
+            }
+
+            return Ok(response);
+        }
+
+        [HttpPost]
+        [Authorize(Roles = "admin")]
+        public async Task<IActionResult> AddProduct([FromForm]AddProductRequest request)
+        {
+            AddProductResponse response = new AddProductResponse();
+            try
+            {
+                response = await _adminSL.AddProduct(request);
+
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = "Exception Mesage : " + ex.Message;
+            }
+
+            return Ok(response);
+        }
+
+        [HttpPatch]
+        [Authorize(Roles = "admin")]
+        public async Task<IActionResult> UpdateProduct([FromForm]UpdateProductRequest request)
+        {
+            UpdateProductResponse response = new UpdateProductResponse();
+            try
+            {
+                response = await _adminSL.UpdateProduct(request);
+
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = "Exception Mesage : " + ex.Message;
+            }
+
+            return Ok(response);
+        }
+
+        [HttpPost]
+        [Authorize(Roles = "admin")]
+        public async Task<IActionResult> GetAllProduct(GetAllProductRequest request)
+        {
+            GetAllProductResponse response = new GetAllProductResponse();
+            try
+            {
+                response = await _adminSL.GetAllProduct(request);
+
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = "Exception Mesage : " + ex.Message;
+            }
+
+            return Ok(response);
+        }
+
+        [HttpDelete]
+        [Authorize(Roles = "admin")]
+        public async Task<IActionResult> DeleteProduct(DeleteProductRequest request)
+        {
+            DeleteProductResponse response = new DeleteProductResponse();
+            try
+            {
+                response = await _adminSL.DeleteProduct(request);
 
             }
             catch (Exception ex)
