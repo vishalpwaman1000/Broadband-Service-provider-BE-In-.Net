@@ -100,7 +100,7 @@ namespace Broadbrand_Service_Provider.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "admin")]
+        [Authorize(Roles = "admin,customer")]
         public async Task<IActionResult> GetAllProduct(GetAllProductRequest request)
         {
             GetAllProductResponse response = new GetAllProductResponse();

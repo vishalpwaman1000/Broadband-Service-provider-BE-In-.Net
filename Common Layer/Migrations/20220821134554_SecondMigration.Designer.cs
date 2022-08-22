@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Common_Layer.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220805141248_SecondMigration")]
+    [Migration("20220821134554_SecondMigration")]
     partial class SecondMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -20,6 +20,105 @@ namespace Common_Layer.Migrations
                 .UseIdentityColumns()
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
+
+            modelBuilder.Entity("Common_Layer.Model.Product", b =>
+                {
+                    b.Property<int>("ProductID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<DateTime>("InsertionDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("ProductDescription")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProductImageUrl")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProductName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProductPrice")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProductType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PublicID")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ProductID");
+
+                    b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("Common_Layer.Model.PurchaseProduct", b =>
+                {
+                    b.Property<int>("PurchaseId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<DateTime>("InsertionDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("ProductID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ProductType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UserID")
+                        .HasColumnType("int");
+
+                    b.HasKey("PurchaseId");
+
+                    b.ToTable("PurchaseProducts");
+                });
+
+            modelBuilder.Entity("Common_Layer.Model.Ticket", b =>
+                {
+                    b.Property<int>("TicketID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Assigner")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("InsertionDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("PlanType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("RaiseType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Reportor")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Status")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Summary")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UserID")
+                        .HasColumnType("int");
+
+                    b.HasKey("TicketID");
+
+                    b.ToTable("Tickets");
+                });
 
             modelBuilder.Entity("Common_Layer.Model.UserDetails", b =>
                 {

@@ -69,4 +69,32 @@ namespace Common_Layer.Model
         public string PublicID { get; set; }
         public bool IsActive { get; set; }
     }
+
+    public class Ticket
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int TicketID { get; set; }
+        public DateTime InsertionDate { get; set; }
+        public int UserID { get; set; }
+        public string Reportor { get; set; }
+        public string Assigner { get; set; }
+        public string PlanType { get; set; }
+        public string RaiseType { get; set; }
+        public string Summary { get; set; }
+        public string Description { get; set; }
+        public string Status { get; set; } //pending, Inprogress, Closed, ReadyToTesting
+        //InsertionDate, UserID, Reportor, Assigner, PlanType, RaiseType, Summary, Description, Status
+    }
+
+    public class PurchaseProduct
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int PurchaseId { get; set; }
+        public DateTime InsertionDate { get; set; }
+        public int UserID { get; set; }
+        public int ProductID { get; set; }
+        public string ProductType { get; set; } // Device, Plan
+    }
 }

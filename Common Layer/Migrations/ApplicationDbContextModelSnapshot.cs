@@ -55,6 +55,69 @@ namespace Common_Layer.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("Common_Layer.Model.PurchaseProduct", b =>
+                {
+                    b.Property<int>("PurchaseId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<DateTime>("InsertionDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("ProductID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ProductType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UserID")
+                        .HasColumnType("int");
+
+                    b.HasKey("PurchaseId");
+
+                    b.ToTable("PurchaseProducts");
+                });
+
+            modelBuilder.Entity("Common_Layer.Model.Ticket", b =>
+                {
+                    b.Property<int>("TicketID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Assigner")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("InsertionDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("PlanType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("RaiseType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Reportor")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Status")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Summary")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UserID")
+                        .HasColumnType("int");
+
+                    b.HasKey("TicketID");
+
+                    b.ToTable("Tickets");
+                });
+
             modelBuilder.Entity("Common_Layer.Model.UserDetails", b =>
                 {
                     b.Property<int>("UserID")

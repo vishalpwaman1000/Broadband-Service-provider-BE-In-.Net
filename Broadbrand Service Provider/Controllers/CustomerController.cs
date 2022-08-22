@@ -59,5 +59,81 @@ namespace Broadbrand_Service_Provider.Controllers
             return Ok(response);
         }
 
+        [HttpPost]
+        [Authorize(Roles = "customer")]
+        public async Task<IActionResult> CreateTicket(CreateTicketRequest request)
+        {
+            CreateTicketResponse response = new CreateTicketResponse();
+            try
+            {
+                response = await _customerSL.CreateTicket(request);
+
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = "Exception Mesage : " + ex.Message;
+            }
+
+            return Ok(response);
+        }
+
+        [HttpPost]
+        [Authorize(Roles = "customer")]
+        public async Task<IActionResult> GetTicketHistory(GetTicketHistoryRequest request)
+        {
+            GetTicketHistoryResponse response = new GetTicketHistoryResponse();
+            try
+            {
+                response = await _customerSL.GetTicketHistory(request);
+
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = "Exception Mesage : " + ex.Message;
+            }
+
+            return Ok(response);
+        }
+
+        [HttpPost]
+        [Authorize(Roles = "customer")]
+        public async Task<IActionResult> PurchaseProduct(PurchaseProductRequest request)
+        {
+            PurchaseProductResponse response = new PurchaseProductResponse();
+            try
+            {
+                response = await _customerSL.PurchaseProduct(request);
+
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = "Exception Mesage : " + ex.Message;
+            }
+
+            return Ok(response);
+        }
+
+        [HttpPost]
+        [Authorize(Roles = "customer")]
+        public async Task<IActionResult> GetPurchaseProduct(GetPurchaseProductRequest request)
+        {
+            GetPurchaseProductResponse response = new GetPurchaseProductResponse();
+            try
+            {
+                response = await _customerSL.GetPurchaseProduct(request);
+
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = "Exception Mesage : " + ex.Message;
+            }
+
+            return Ok(response);
+        }
+
     }
 }

@@ -119,7 +119,17 @@ namespace Repository_Layer.Services
             try
             {
                 response.data = new List<Product>();
-                response.data = _applicationDbContext.Products
+                response.data = request.Type.ToLower() == "all" ?
+                    // Fetch All Product
+                    _applicationDbContext.Products
+                    .Skip((request.PageNumber - 1) * request.NumberOfRecordPerPage)
+                    .Take(request.NumberOfRecordPerPage)
+                    .OrderByDescending(X => X.InsertionDate)
+                    .ToList()
+                    :
+                    //Fetch Plan And Device Product
+                    _applicationDbContext.Products
+                    .Where(X => X.ProductType.ToLower() == request.Type.ToLower())
                     .Skip((request.PageNumber - 1) * request.NumberOfRecordPerPage)
                     .Take(request.NumberOfRecordPerPage)
                     .OrderByDescending(X => X.InsertionDate)
@@ -132,7 +142,15 @@ namespace Repository_Layer.Services
                 }
 
                 response.CurrentPage = request.PageNumber;
-                response.TotalRecords = _applicationDbContext.Products.Count();
+                if (request.Type.ToLower() == "all")
+                {
+                    response.TotalRecords = _applicationDbContext.Products.Count();
+                }
+                else
+                {
+                    response.TotalRecords = _applicationDbContext.Products
+                        .Where(X => X.ProductType.ToLower() == request.Type.ToLower()).Count();
+                }
                 response.TotalPage = Convert.ToInt32(Math.Ceiling(Convert.ToDecimal(response.TotalRecords / request.NumberOfRecordPerPage)));
 
             }

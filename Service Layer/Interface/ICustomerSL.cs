@@ -11,5 +11,9 @@ namespace Service_Layer.Interface
     {
         public Task<UpdateCustomerAddressResponse> UpdateCustomerAddress(UpdateCustomerAddressRequest request, string Role);
         public Task<GetCustomerAddressResponse> GetCustomerAddress(int UserID);
+        public Task<CreateTicketResponse> CreateTicket(CreateTicketRequest request);
+        public Task<GetTicketHistoryResponse> GetTicketHistory(GetTicketHistoryRequest request);
+        public Task<PurchaseProductResponse> PurchaseProduct(PurchaseProductRequest request);
+        public Task<GetPurchaseProductResponse> GetPurchaseProduct(GetPurchaseProductRequest request);
     }
 }

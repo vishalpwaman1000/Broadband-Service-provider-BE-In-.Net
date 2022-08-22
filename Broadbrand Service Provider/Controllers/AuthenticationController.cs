@@ -81,7 +81,7 @@ namespace Broadbrand_Service_Provider.Controllers
             var token = new JwtSecurityToken(_configuration["Jwt:Issuer"],
               _configuration["Jwt:Audiance"],
               claims,    //null original value
-              expires: DateTime.Now.AddMinutes(120),
+              expires: DateTime.Now.AddDays(1),
 
               //notBefore:
               signingCredentials: credentials);
